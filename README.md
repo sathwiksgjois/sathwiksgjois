@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/sathwiksgjois">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2600&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Designing+distributed+systems+that+don't+fall+over;Building+retrieval+and+reasoning+pipelines+for+LEXOS;Writing+a+Redis+clone+in+modern+C%2B%2B+from+epoll+up;Shipping+multi-agent+AI+platforms%2C+not+demos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2600&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Designing+distributed+systems+that+don't+fall+over;Building+retrieval+and+reasoning+pipelines+for+NyayaOS;Writing+a+Redis+clone+in+modern+C%2B%2B+from+epoll+up;Shipping+multi-agent+AI+platforms%2C+not+demos" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -48,7 +48,7 @@ I work on the parts of software that are hard to get right the first time: retri
 ## <img src="assets/section-tag.svg" height="8"/>&nbsp; Engineering Dashboard
 
 <table>
-<tr><td><b>Current Focus</b></td><td>Production-grade retrieval and multi-agent reasoning for <a href="#-lexos">LEXOS</a></td></tr>
+<tr><td><b>Current Focus</b></td><td>Production-grade retrieval and multi-agent reasoning for <a href="#-NyayaOS">NyayaOS</a></td></tr>
 <tr><td><b>Currently Learning</b></td><td>Consensus protocols, storage-engine internals, and large-scale agent orchestration</td></tr>
 <tr><td><b>Building</b></td><td>A C++ in-memory data store from raw sockets up — <a href="#-novacache">NovaCache</a></td></tr>
 <tr><td><b>Open to Collaborate On</b></td><td>AI infrastructure, RAG systems, and low-level networking/storage projects</td></tr>
@@ -59,7 +59,7 @@ I work on the parts of software that are hard to get right the first time: retri
 
 ## <img src="assets/section-tag.svg" height="8"/>&nbsp; Featured Projects
 
-### <a name="-lexos"></a>LEXOS — AI Litigation Intelligence Platform
+### <a name="-NyayaOS"></a>NyayaOS — AI Litigation Intelligence Platform
 <sub>FLAGSHIP PROJECT &nbsp;·&nbsp; ENTERPRISE-SCALE AI PLATFORM</sub>
 
 An end-to-end AI system for legal reasoning: it retrieves authorities, verifies citations against source text, and runs a structured multi-agent debate before producing a drafted memorial — rather than a single-shot LLM answer.
@@ -291,7 +291,7 @@ timeline
          : Networking
          : Agentic AI
          : RAG
-         : LEXOS
+         : NyayaOS
          : AstraFund
     2026 : Production & Infra
          : Production AI Platforms
