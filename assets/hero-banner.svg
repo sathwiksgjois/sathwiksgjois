@@ -1,0 +1,76 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060A"/>
+      <stop offset="55%" stop-color="#0A0E1C"/>
+      <stop offset="100%" stop-color="#0B0A17"/>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818CF8"/>
+      <stop offset="45%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+
+    <linearGradient id="strokeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.15"/>
+    </linearGradient>
+
+    <radialGradient id="blob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#6366F1" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </radialGradient>
+
+    <filter id="blurHeavy" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bgGrad)"/>
+  <rect width="1200" height="420" fill="url(#grid)"/>
+
+  <circle cx="150" cy="90" r="180" fill="url(#blob1)" filter="url(#blurHeavy)">
+    <animate attributeName="cx" values="150;220;150" dur="14s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1050" cy="340" r="200" fill="url(#blob2)" filter="url(#blurHeavy)">
+    <animate attributeName="cy" values="340;270;340" dur="16s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="70" r="150" fill="url(#blob3)" filter="url(#blurHeavy)">
+    <animate attributeName="cx" values="980;900;980" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- glass card -->
+  <rect x="80" y="78" width="1040" height="264" rx="22" fill="#FFFFFF" fill-opacity="0.03" stroke="url(#strokeGrad)" stroke-width="1.4"/>
+  <rect x="80" y="78" width="1040" height="1.4" fill="#FFFFFF" fill-opacity="0.18"/>
+
+  <text x="600" y="176" text-anchor="middle" font-family="-apple-system, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="1" fill="url(#textGrad)">
+    SATHWIK S G JOIS
+  </text>
+
+  <text x="600" y="218" text-anchor="middle" font-family="'Courier New', monospace" font-size="17" letter-spacing="3.5" fill="#9CA3AF">
+    AI SYSTEMS &#183; BACKEND &#183; DISTRIBUTED SYSTEMS ENGINEER
+  </text>
+
+  <line x1="500" y1="245" x2="700" y2="245" stroke="url(#strokeGrad)" stroke-width="1"/>
+
+  <text x="600" y="284" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Arial, sans-serif" font-size="15" fill="#6B7280">
+    Building production-grade AI systems, distributed infrastructure &amp; developer tools
+  </text>
+
+  <g font-family="'Courier New', monospace" font-size="13" fill="#4B5563">
+    <text x="600" y="316" text-anchor="middle">&#8592; India &#183; Open to SWE / AI Systems roles &#8594;</text>
+  </g>
+</svg>
