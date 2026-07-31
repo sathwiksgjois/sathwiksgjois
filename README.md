@@ -42,7 +42,7 @@ Alongside systems engineering, I regularly practice Data Structures & Algorithms
 <tr>
 <td width="20%" align="center">Operating Systems</td>
 <td width="20%" align="center">Retrieval-Augmented Generation</td>
-<td width="20%" align="center">System Design</td>
+<td width="20%" align="center">Data Structure and Algorithms</td>
 <td width="20%" align="center">Databases</td>
 <td width="20%" align="center">Developer Infrastructure</td>
 </tr>
