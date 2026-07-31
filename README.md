@@ -13,6 +13,9 @@
 <a href="mailto:sathwiksg31@gmail.com"><img src="https://img.shields.io/badge/-Email-0B0E1A?style=flat-square&logo=gmail&logoColor=E5E7EB&labelColor=0B0E1A" /></a>
 <a href="https://www.linkedin.com/in/sathwik-s-g-129880310/"><img src="https://img.shields.io/badge/-LinkedIn-0B0E1A?style=flat-square&logo=linkedin&logoColor=E5E7EB&labelColor=0B0E1A" /></a>
 <a href="https://github.com/sathwiksgjois"><img src="https://img.shields.io/badge/-GitHub-0B0E1A?style=flat-square&logo=github&logoColor=E5E7EB&labelColor=0B0E1A" /></a>
+<a href="https://leetcode.com/u/UWTscTKXXo/">
+  <img src="https://img.shields.io/badge/-LeetCode-0B0E1A?style=flat-square&logo=leetcode&logoColor=E5E7EB&labelColor=0B0E1A" />
+</a>
 <a href="#"><img src="https://img.shields.io/badge/-Resume-0B0E1A?style=flat-square&logo=readdotcv&logoColor=E5E7EB&labelColor=0B0E1A" /></a>
 <img src="https://komarev.com/ghpvc/?username=sathwiksgjois&style=flat-square&color=6366f1&label=Profile+Views" />
 
@@ -23,6 +26,8 @@
 ## <img src="assets/section-tag.svg" height="8"/>&nbsp; About
 
 I work on the parts of software that are hard to get right the first time: retrieval pipelines that need to be *correct*, event loops that need to not drop connections, and agent systems that need to know when to stop talking. Based in India, currently focused on production-grade AI systems, distributed infrastructure, and the backend architecture underneath both.
+
+Alongside systems engineering, I regularly practice Data Structures & Algorithms to strengthen problem-solving and software engineering fundamentals.
 
 **Interested in**
 
