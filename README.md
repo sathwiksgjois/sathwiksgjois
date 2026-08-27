@@ -348,11 +348,11 @@ timeline
 ## <img src="assets/section-tag.svg" height="8"/>&nbsp; Latest Activity
 
 <!--START_ACTIVITY-->
-- **Starred** [`shreekanthashokg-lang/Price-Predictor-ML-Pipeline`](https://github.com/shreekanthashokg-lang/Price-Predictor-ML-Pipeline) &mdash; Jul 31, 2026
-- **Pushed to** [`sathwiksgjois/AuraChat---Advanced-AI-powered-Chat-System`](https://github.com/sathwiksgjois/AuraChat---Advanced-AI-powered-Chat-System) &mdash; Jul 31, 2026
-- **Pushed to** [`sathwiksgjois/AuraChat---Advanced-AI-powered-Chat-System`](https://github.com/sathwiksgjois/AuraChat---Advanced-AI-powered-Chat-System) &mdash; Jul 31, 2026
-- **Pushed to** [`sathwiksgjois/AuraChat---Advanced-AI-powered-Chat-System`](https://github.com/sathwiksgjois/AuraChat---Advanced-AI-powered-Chat-System) &mdash; Jul 31, 2026
-- **Pushed to** [`sathwiksgjois/astrafund`](https://github.com/sathwiksgjois/astrafund) &mdash; Jul 31, 2026
+- **Pushed to** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
+- **DeleteEvent** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
+- **Created a branch/tag in** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
+- **Pushed to** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
+- **Created a branch/tag in** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
 <!--END_ACTIVITY-->
 
 <img src="assets/footer.svg" width="100%" />
