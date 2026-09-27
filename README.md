@@ -348,9 +348,7 @@ timeline
 ## <img src="assets/section-tag.svg" height="8"/>&nbsp; Latest Activity
 
 <!--START_ACTIVITY-->
-- **Pushed to** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
-- **DeleteEvent** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
-- **Created a branch/tag in** [`sathwiksgjois/NyayaOS`](https://github.com/sathwiksgjois/NyayaOS) &mdash; Aug 26, 2026
+- No recent public activity yet.
 <!--END_ACTIVITY-->
 
 <img src="assets/footer.svg" width="100%" />
